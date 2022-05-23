@@ -19,4 +19,4 @@
 
 📈 My GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOFER998&show_icons=true&theme=dark)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DOFER998&show_icons=true&theme=dark" alt="DOFER998" />
