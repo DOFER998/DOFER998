@@ -1,6 +1,6 @@
 ![Header](https://github.com/DOFER998/DOFER998/blob/main/assets/c0mrad.png)
 
-## I am a novice Frontend developer and a fan of Discord bots
+ # Hello I am a novice Frontend developer and a fan of Discord bots
 - 🔭  I’m currently working on something cool 😉
 - 🌱  I’m currently learning HTML, CSS
 
@@ -16,5 +16,7 @@
 # Follow Me
 [![Twitter](https://img.shields.io/twitter/follow/C0mradEth?color=0a0c10&style=flat&logo=twitter)](https://twitter.com/C0mradEth)
 [![Instagram](https://img.shields.io/badge/-Instagram-0a0c10?style=flat&logo=Instagram)](https://www.instagram.com/c0mrade.eth/)
+
+📈 My GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOFER998&show_icons=true&theme=dark)
