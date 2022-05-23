@@ -39,4 +39,5 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+![Snake animation](https://github.com/DOFER998/DOFER998/blob/output/github-contribution-grid-snake.svg)
 
