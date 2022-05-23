@@ -21,3 +21,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DOFER998&show_icons=true&theme=dark" alt="DOFER998" />
 
+📊  This week I spent my time on
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
