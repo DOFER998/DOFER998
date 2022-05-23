@@ -4,6 +4,10 @@
 - 🔭  I’m currently working on something cool 😉
 - 🌱  I’m currently learning HTML, CSS
 
+# Spotify is playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=00dkmaic833yovkczb2w02j6n&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=00dkmaic833yovkczb2w02j6n&redirect=true)
+
 # Languages & Tools
 ![HTML](https://img.shields.io/badge/-HTML-0a0c10?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-0a0c10?style=flat&logo=css3)
@@ -36,3 +40,4 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
