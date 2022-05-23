@@ -1,6 +1,6 @@
 ![Header](https://github.com/DOFER998/DOFER998/blob/main/assets/c0mrad.png)
 
- # Hello <img src="https://github.com/DOFER998/DOFER998/blob/main/assets/Wave.gif" height="30px" width="30px"> I am a novice Frontend developer and a fan of Discord bots
+ # Hello <img src="https://github.com/DOFER998/DOFER998/blob/main/assets/Wave.gif" height="30px" width="30px">, I am a novice Frontend developer and a fan of Discord bots
 - 🔭  I’m currently working on something cool 😉
 - 🌱  I’m currently learning HTML, CSS
 
@@ -19,7 +19,11 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DOFER998&show_icons=true&theme=dark" alt="DOFER998" />
+<div align="center">
+   <a href="https://github.com/DOFER998">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DOFER998&show_icons=true&theme=dark" alt="DOFER998" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOFER998&layout=compact&theme=dark" alt="DOFER998" />
+</div>
 
 📊  This week I spent my time on
 
