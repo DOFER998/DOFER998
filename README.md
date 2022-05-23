@@ -22,7 +22,7 @@
 <div align="center">
    <a href="https://github.com/DOFER998">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DOFER998&show_icons=true&theme=dark" alt="DOFER998" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOFER998&layout=compact&theme=dark" alt="DOFER998" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOFER998&compact&langs_count=7&theme=dark" alt="DOFER998" />
 </div>
 
 📊  This week I spent my time on
