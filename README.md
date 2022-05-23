@@ -21,7 +21,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/C0mradEth?color=0a0c10&style=flat&logo=twitter)](https://twitter.com/C0mradEth)
 [![Instagram](https://img.shields.io/badge/-Instagram-0a0c10?style=flat&logo=Instagram)](https://www.instagram.com/c0mrade.eth/)
 
-📈 My GitHub Stats
+## 📈 My GitHub Stats
 
 <div align="center">
    <a href="https://github.com/DOFER998">
@@ -29,9 +29,8 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOFER998&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-#
 
-📊  This week I spent my time on
+### 📊  This week I spent my time on
 
 <!--START_SECTION:waka-->
 
