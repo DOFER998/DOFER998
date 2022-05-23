@@ -8,3 +8,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0a0c10?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0a0c10?style=flat&logo=typescript)
 ![Pythot](https://img.shields.io/badge/-Python-0a0c10?style=flat&logo=python)
+![VS Code](https://img.shields.io/badge/-VScode-0a0c10?style=flat&logo=VisualStudioCode&logoColor=2d9eea)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-0a0c10?style=flat&logo=Ubuntu)
