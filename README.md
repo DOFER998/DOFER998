@@ -35,7 +35,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 16 May 2022 - To: 23 May 2022
+
+Markdown   1 hr 7 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀   74.34 %
+YAML       23 mins         ⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.66 %
 ```
 
 <!--END_SECTION:waka-->
