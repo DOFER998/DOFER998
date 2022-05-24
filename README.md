@@ -1,4 +1,4 @@
-![Header](https://github.com/DOFER998/DOFER998/blob/main/assets/GitHub%20Baner.gif)
+![Header](https://github.com/DOFER998/DOFER998/blob/main/assets/c0mrad.png)
 
  # Hello <img src="https://github.com/DOFER998/DOFER998/blob/main/assets/Wave.gif" height="30px" width="30px">, I am a novice Frontend developer and a fan of Discord bots
 - 🔭  I’m currently working on something cool 😉
