@@ -15,6 +15,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0a0c10?style=flat&logo=typescript)
 ![Pythot](https://img.shields.io/badge/-Python-0a0c10?style=flat&logo=python)
 ![VS Code](https://img.shields.io/badge/-VScode-0a0c10?style=flat&logo=VisualStudioCode&logoColor=2d9eea)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0a0c10?style=flat&logo=DigitalOcean)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0a0c10?style=flat&logo=Ubuntu)
 ![GitHub](https://img.shields.io/badge/-GitHub-0a0c10?style=flat&logo=GitHub)
 ![Terminal](https://img.shields.io/badge/-Terminal-0a0c10?style=flat&logo=WindowsTerminal)
@@ -45,5 +46,5 @@ YAML       23 mins         ⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 #
-![Snake animation](https://github.com/DOFER998/DOFER998/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/DOFER998/DOFER998/blob/output/github-contribution-grid-snake.svg)](https://github.com/DOFER998)
 
