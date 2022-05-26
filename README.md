@@ -9,11 +9,11 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=00dkmaic833yovkczb2w02j6n&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=00dkmaic833yovkczb2w02j6n&redirect=true)
 
 # 💻 Languages & Tools
+![Pythot](https://img.shields.io/badge/-Python-0a0c10?style=flat&logo=python)
 ![HTML](https://img.shields.io/badge/-HTML-0a0c10?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-0a0c10?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0a0c10?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0a0c10?style=flat&logo=typescript)
-![Pythot](https://img.shields.io/badge/-Python-0a0c10?style=flat&logo=python)
 ![VS Code](https://img.shields.io/badge/-VScode-0a0c10?style=flat&logo=VisualStudioCode&logoColor=2d9eea)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0a0c10?style=flat&logo=DigitalOcean)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0a0c10?style=flat&logo=Ubuntu)
