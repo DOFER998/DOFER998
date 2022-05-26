@@ -1,4 +1,6 @@
-![Header](https://github.com/DOFER998/DOFER998/blob/main/assets/c0mrad.png)
+<div align="center">
+<img height="148em" src='https://github.com/DOFER998/DOFER998/blob/main/assets/c0mrad.png'
+</div>
 
  # Hello <img src="https://github.com/DOFER998/DOFER998/blob/main/assets/Wave.gif" height="30px" width="30px">, I am a novice Frontend developer and a fan of Discord bots
 - 🔭  I’m currently working on something cool 😉
