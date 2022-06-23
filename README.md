@@ -10,6 +10,7 @@
 
 # 💻 Languages & Tools
 ![Pythot](https://img.shields.io/badge/-Python-0a0c10?style=flat&logo=python)
+![PyCharm Professional](https://img.shields.io/badge/-PyCharm-0a0c10?style=flat&logo=PyCharm&logoColor=3bd18f)
 ![VS Code](https://img.shields.io/badge/-VScode-0a0c10?style=flat&logo=VisualStudioCode&logoColor=2d9eea)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0a0c10?style=flat&logo=DigitalOcean)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0a0c10?style=flat&logo=Ubuntu)
