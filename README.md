@@ -41,4 +41,8 @@ No activity tracked
 <!--END_SECTION:waka-->
 #
 [![Snake animation](https://github.com/DOFER998/DOFER998/blob/output/github-contribution-grid-snake.svg)](https://github.com/DOFER998)
+ 
+ <!--CRYPTO-->
+<div class='cr-heatmap-widget' data-top='100' data-api-url='100' data-site-url: https://cryptorank.io
+            data-api-url: https://api.cryptorank.io data-range='24H' data-order='cap' style='width: 370px; height: 250px;'><a target='_blank' rel='noopener' href='https://cryptorank.io/heatmaps'>Market State by Cryptorank</a></div><script src='https://cryptorank.io/widget/market-state.js'></script>
 
