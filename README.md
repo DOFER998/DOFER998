@@ -43,16 +43,6 @@ No activity tracked
 [![Snake animation](https://github.com/DOFER998/DOFER998/blob/output/github-contribution-grid-snake.svg)](https://github.com/DOFER998)
  
  ## Cypto
-
-<div id="cr-widget-marquee"
-        data-coins="near-protocol,ethereum,bitcoin"
-        data-theme="dark"
-        data-show-symbol="true"
-        data-show-icon="true"
-        data-show-period-change="true"
-        data-period-change="3M"
-        data-api-url="https://api.cryptorank.io/v0">
-        <a href="https://cryptorank.io">Coins by Cryptorank</a>
-        <script src="https://cryptorank.io/widget/marquee.js"></script>
-      </div>
+ 
+<div class="cr-price-ticker-widget" data-site-url="https://cryptorank.io" data-api-url="https://api.cryptorank.io" data-coin-key="ethereum" data-base-key="united-states-dollar" data-secondary-key="united-states-dollar" data-stat-key="united-states-dollar" data-ticker="true" data-rank="true" data-market-cap="true" data-volume="true" data-stats="true"><a target="_blank" rel="noopener" href="https://cryptorank.io/price/ethereum">Ethereum Price by Cryptorank</a></div><script src="https://cryptorank.io/widget/price-ticker.js"></script>
 
