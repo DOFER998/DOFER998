@@ -49,8 +49,5 @@ requirements.txt   10 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 #
 [![Snake animation](https://github.com/DOFER998/DOFER998/blob/output/github-contribution-grid-snake.svg)](https://github.com/DOFER998)
  
- ##Stats
-
-<iframe src="https://stats.gallery/embed/mainnet/bscdeposit.near/score?t=all" width="320" height="380" frameborder="0" allowtransparency="true"></iframe>
  
 
