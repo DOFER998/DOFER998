@@ -33,9 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 September 2022 - To: 25 September 2022
-
-Python   1 hr 35 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
