@@ -1,5 +1,5 @@
 <div>
-<img height="300em" src="https://raw.githubusercontent.com/DOFER998/DOFER998/main/assets/bulb.jpg">
+<img height="290em" src="https://raw.githubusercontent.com/DOFER998/DOFER998/main/assets/bulb.jpg">
 </div>
 
 
