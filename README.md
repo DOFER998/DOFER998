@@ -26,6 +26,7 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/C0mradEth?color=0a0c10&style=flat&logo=twitter)](https://twitter.com/C0mradEth)
 [![Instagram](https://img.shields.io/badge/-Instagram-0a0c10?style=flat&logo=Instagram)](https://www.instagram.com/c0mrade.eth/)
+<a href="https://discord.gg/eC5EhJfmNd"><img src="https://img.shields.io/discord/1041165809013243924?color=blue&label=Kizmeow%20Support%20Server&logo=discord"></a>
 
 ## 📈 My GitHub Stats
 
