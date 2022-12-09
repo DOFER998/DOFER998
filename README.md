@@ -3,7 +3,7 @@
 </div>
 
 
-# Hello <img src="https://github.com/DOFER998/DOFER998/blob/main/assets/Wave.gif" height="30px" width="30px">, I am a novice Front-end developer and a fan of Discord bots
+# Hello <img src="https://github.com/DOFER998/DOFER998/blob/main/assets/Wave.gif" height="30px" width="30px">, I am a novice Backend developer, Devops and a fan of Discord bots
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning **Python**
